@@ -1,11 +1,16 @@
-text = "Hello\nWorld"
-print(text)
-
-path = "C:\\Users\\Mira"
+print("Hello\nWorld")
+print("Name:\tMira")
+print("Backslash: \\")
+print('It\'s a sunny day')
+print("She said \"Python is fun\"")
+print("Line1\rLine2")
+print("AB\bC")
+print("Alert\aDone")
+print("Form\ffeed")
+print("Vertical\vTab")
+print("Null\0End")
+print("Unicode: \u2764")
+print("Hex: \x41")
+print("Octal: \101")
+path = r"C:\Users\Mira"
 print(path)
-
-quote = "She said \"Python is fun\""
-print(quote)
-
-tabbed = "Name:\tMira"
-print(tabbed)
